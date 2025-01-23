@@ -65,7 +65,6 @@ O **GameList** é uma API desenvolvida para gerenciar listas de jogos. Com ele, 
 ### **POST**
 
 - **Alterar a posição de um jogo dentro de uma lista:**
-  ```plaintext
   http://localhost:8080/lists/{id}/replacement
   ```
   Exemplo: `http://localhost:8080/lists/2/replacement`
@@ -111,4 +110,3 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 ---
 
 Feito com 💻 e ☕ por **[Guilherme Bomfim](https://github.com/GuilhermeBomfimDev)**.  
-```

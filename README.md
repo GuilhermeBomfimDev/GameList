@@ -1,4 +1,3 @@
-```markdown
 # 🎮 GameList
 
 ## 📖 Sobre o Projeto
